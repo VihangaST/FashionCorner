@@ -507,7 +507,7 @@ footer .follow i{
 
 }
 
-footer .install{
+footer .install .row img{
     border: 1px solid;
     border-radius: 6px;
     
@@ -515,5 +515,16 @@ footer .install{
 
 footer .install img{
     margin:10px 0 15px 0;
+
+}
+
+footer .follow:hover{
+    color: aqua;
+
+}
+
+footer .copyright{
+    width: 100%;
+    text-align: center;
 
 }
